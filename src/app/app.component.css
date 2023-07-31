@@ -69,3 +69,7 @@ small {
 .line-through {
   text-decoration: line-through;
 }
+
+.naoTemItem {
+  font-size: 0.8rem;
+}
